@@ -1,0 +1,22 @@
+.piee {
+  padding-top: 30px;
+  padding-left: 10px;
+  margin-right: 80px;
+  height: 410px;
+  border-radius: 25px;
+  width: 400px;
+  justify-content: center;
+  align-items: center;
+  background: rgb(35, 36, 39);
+  box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.2),
+    inset -5px -5px 15px rgba(255, 255, 255, 0.1),
+    5px 5px 15px rgba(0, 0, 0, 0.3), -5px -5px 15px rgba(255, 255, 255, 0.1);
+}
+
+.contentt {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 130px;
+  margin-top: -1px;
+  color: #ffffff;
+}
